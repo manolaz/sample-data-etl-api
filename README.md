@@ -9,3 +9,6 @@ The API running by FAST API
 ```bash
 uvicorn main:app --reload
 ```
+
+OPEN Swagger at
+http://127.0.0.1:8000/docs#/default/
