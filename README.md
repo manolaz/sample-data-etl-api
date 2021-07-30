@@ -12,3 +12,13 @@ uvicorn main:app --reload
 
 OPEN Swagger at
 http://127.0.0.1:8000/docs#/default/
+
+## AUTHENTICATION
+
+Click the "Authorize" button.
+
+Use the credentials:
+
+User: johndoe
+
+Password: secret
